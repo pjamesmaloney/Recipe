@@ -10,4 +10,4 @@ Basic Needs:
 -Web interface/based? Maybe not, add lots more work. Revisit
 -Web APIs and interfacing with them: https://ndb.nal.usda.gov/
 -Interface with kitchen scale/Arduino made. 
--
+-When all of that is done, exercise tracking/trending.
